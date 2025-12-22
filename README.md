@@ -16,6 +16,12 @@ beberapa fitur yang ada:
 
 7.karyawan dapat mengembalikan barang jika sudah selesai
 
+
+
+
+Berikut adalah tampilan web
+
+
 1. Halaman login
 ![login](ss/1.jpg)
 
@@ -55,6 +61,7 @@ beberapa fitur yang ada:
 
 13.halaman status peminjaman
 ![status peminjaman](ss/13.jpg)
+
 
 
 
