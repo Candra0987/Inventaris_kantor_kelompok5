@@ -24,7 +24,13 @@ beberapa fitur yang ada:
 
 
 
+Akun Demo
 
+1.Admin | Username : admin00@gmail.com Pw : admin00
+
+2.Karyawan | Username : mrx@gmail.com Pw : mrx
+
+&nbsp;
 
 
 
@@ -145,6 +151,7 @@ Berikut adalah tampilan dari web inventaris barang kantor
 
 13.halaman status peminjaman
 ![status peminjaman](ss/13.jpg)
+
 
 
 
