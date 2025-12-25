@@ -2,7 +2,7 @@ Web inventaris barang kantor
 
 beberapa fitur yang ada:
 
-1.user login berdasrkan role
+1.user login berdasarkan role : admin dan karyawan
 
 2.admin kelola barang
 
@@ -15,6 +15,57 @@ beberapa fitur yang ada:
 6.karyawan dapat meminjam berdasrkan stok yang tersedia
 
 7.karyawan dapat mengembalikan barang jika sudah selesai
+
+
+
+Alur Admin:
+
+
+1.Buat kategori barang 
+
+2.Masukkan barang berdasarkan kategori barang 
+
+3.Buat akun karyawan 
+
+4.lihat peminjaman
+
+5.Validasi peminjaman karyawan
+
+
+
+Alur Karyawan :
+
+
+1.Lihat barang yang tersedia
+
+2.Pinjam barang
+
+3.Tunggu validasi admin
+
+4.Barang dapat dipinjam jika sudah di validasi admin
+
+5.Kembalikan barang jika sudah selesai
+
+6.Klik kembalikan pada halaman peminjaman
+
+
+
+Tools :
+
+
+1.VS Code 
+
+2.Xampp
+
+3.MySQL
+
+4.PHP
+
+5.HTML
+
+6.CSS
+
+
 
 
 
@@ -61,6 +112,7 @@ Berikut adalah tampilan web
 
 13.halaman status peminjaman
 ![status peminjaman](ss/13.jpg)
+
 
 
 
