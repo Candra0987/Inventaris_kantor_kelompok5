@@ -41,6 +41,7 @@ Alur Admin:
 4.lihat peminjaman
 
 5.Validasi peminjaman karyawan
+
 &nbsp;
 
 
@@ -67,6 +68,7 @@ Alur Karyawan :
 5.Kembalikan barang jika sudah selesai
 
 6.Klik kembalikan pada halaman peminjaman
+
 &nbsp;
 
 
@@ -93,14 +95,16 @@ Tools :
 5.HTML
 
 6.CSS
+
 &nbsp;
 
 
 
 
 
-Berikut adalah tampilan web
+Berikut adalah tampilan dari web inventaris barang kantor
 
+&nbsp;
 
 1. Halaman login
 ![login](ss/1.jpg)
@@ -141,6 +145,7 @@ Berikut adalah tampilan web
 
 13.halaman status peminjaman
 ![status peminjaman](ss/13.jpg)
+
 
 
 
