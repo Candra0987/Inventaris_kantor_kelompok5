@@ -18,6 +18,16 @@ beberapa fitur yang ada:
 
 
 
+
+
+
+
+
+
+
+
+
+
 Alur Admin:
 
 
@@ -30,6 +40,15 @@ Alur Admin:
 4.lihat peminjaman
 
 5.Validasi peminjaman karyawan
+
+
+
+
+
+
+
+
+
 
 
 
@@ -47,6 +66,15 @@ Alur Karyawan :
 5.Kembalikan barang jika sudah selesai
 
 6.Klik kembalikan pada halaman peminjaman
+
+
+
+
+
+
+
+
+
 
 
 
@@ -112,6 +140,7 @@ Berikut adalah tampilan web
 
 13.halaman status peminjaman
 ![status peminjaman](ss/13.jpg)
+
 
 
 
