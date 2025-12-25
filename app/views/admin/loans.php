@@ -47,9 +47,7 @@ th, td {
   vertical-align: middle;
 }
 
-tr:hover {
-  background-color: #f9f9f9;
-}
+
 
 /* ====== STATUS BADGE ====== */
 .status {

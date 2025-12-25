@@ -61,9 +61,7 @@ th, td {
   font-size: 0.95rem;
 }
 
-tr:hover {
-  background-color: #f9f9f9;
-}
+
 
 /* ====== BUTTONS ====== */
 .btn-sm {

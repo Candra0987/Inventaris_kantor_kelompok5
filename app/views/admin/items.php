@@ -65,9 +65,7 @@ th:first-child, td:first-child {
   border-top-left-radius: 12px;
 }
 
-tr:hover {
-  background-color: #f9f9f9;
-}
+
 
 /* ====== ACTION BUTTONS ====== */
 .btn-sm {
