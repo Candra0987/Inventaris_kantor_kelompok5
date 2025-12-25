@@ -16,6 +16,7 @@ beberapa fitur yang ada:
 
 7.karyawan dapat mengembalikan barang jika sudah selesai
 
+&nbsp;
 
 
 
@@ -40,7 +41,7 @@ Alur Admin:
 4.lihat peminjaman
 
 5.Validasi peminjaman karyawan
-
+&nbsp;
 
 
 
@@ -66,7 +67,7 @@ Alur Karyawan :
 5.Kembalikan barang jika sudah selesai
 
 6.Klik kembalikan pada halaman peminjaman
-
+&nbsp;
 
 
 
@@ -92,7 +93,7 @@ Tools :
 5.HTML
 
 6.CSS
-
+&nbsp;
 
 
 
@@ -140,6 +141,7 @@ Berikut adalah tampilan web
 
 13.halaman status peminjaman
 ![status peminjaman](ss/13.jpg)
+
 
 
 
